@@ -48,7 +48,7 @@ Before you start to `git clone` this repository, you need to do the following th
 
 ## Installation
 ```
-git clone https://github.com/dreydx1/
+git clone https://github.com/dreydx1/CS50p-final-project
 
 cd project
 
